@@ -1,0 +1,10 @@
+studentdetails=('Fahmida','5','Kandinsky college','7','class5')
+print(studentdetails)
+for i in studentdetails:
+    print(i)
+print(studentdetails[3])
+print(studentdetails[1:4])
+print(studentdetails[0:3])
+print(studentdetails[1:])
+studentdetails=('5','fahmida','Kandinsky college','7','class5')
+print(studentdetails)
